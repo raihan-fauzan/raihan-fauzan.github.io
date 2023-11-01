@@ -1,7 +1,7 @@
 # Hello, I'm Raihan Fauzan!
 A mathematics graduate with a keen interest in *data*, *education*, and *creative* works
 
-*raihanfauzan5@gmail.com | [Linkedin](linkedin.com/in/raihanfauzan)*
+raihanfauzan5@gmail.com | [Linkedin](linkedin.com/in/raihanfauzan)
 
 ## Education
 
