@@ -1,6 +1,8 @@
 # Hello, I'm Raihan Fauzan!
 A mathematics graduate with a keen interest in *data*, *education*, and *creative* works
 
+*raihanfauzan5@gmail.com | [Linkedin](linkedin.com/in/raihanfauzan)*
+
 ## Education
 
 ### Bachelor of Science - Mathematics
@@ -39,3 +41,13 @@ toward high school students.
 ### Head of Creative Media Division at HIMATIKA ITB
 
 *Mar 2022 - Mar 2023*
+
+- Led a team of 5 to provide the needs of creative media for publication in HIMATIKA ITB
+- Created grand design for HIMATIKA ITB's publication on various social media
+
+## Skills
+- Mathematics Modeling
+- Python Programming (OOP, Data Scraping)
+- Basic Knowledge of HTML & CSS
+- Graphic Design (vector & raster based)
+- Teaching
