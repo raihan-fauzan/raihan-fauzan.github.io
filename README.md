@@ -1,8 +1,6 @@
 # Hello, I'm Raihan Fauzan!
 Mathematics graduate with a strong interest in data, IT, and education. Skilled in data analysis, problem-solving, and organizing tasks. Looking for a Data Analytics or Data Science role to apply my math and technical skills to help make data-driven decisions
 
-[Email](raihanfauzan5@gmail.com) | [Linkedin](linkedin.com/in/raihanfauzan)
-
 ## Education
 
 ### Bachelor of Science - Mathematics
@@ -48,3 +46,7 @@ Mathematics graduate with a strong interest in data, IT, and education. Skilled 
 - **Data Analysis:** Pivot Table and Charts *(Excel)*, Data Preparation *(Excel, pandas, SQL)*, Data Visualization *(Excel, matplotlib, seaborn)*, Web Scraping, Basic Machine Learning
 - **Graphic Design:** Vector Graphics *(Inkscape, Figma)*, Raster Graphics *(Photoshop*)
 - **Languages:** Bahasa Indonesia *(native)*, English *(proficient)*
+
+## Contacts
+- **email:** raihanfauzan5@gmail.com
+- **Linkedin** [Raihan Fauzan](https://www.linkedin.com/in/raihanfauzan/)
