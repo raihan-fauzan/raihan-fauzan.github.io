@@ -1,7 +1,7 @@
 # Hello, I'm Raihan Fauzan!
-A mathematics graduate with a keen interest in *data*, *education*, and *creative* works
+Mathematics graduate with a strong interest in data, IT, and education. Skilled in data analysis, problem-solving, and organizing tasks. Looking for a Data Analytics or Data Science role to apply my math and technical skills to help make data-driven decisions
 
-raihanfauzan5@gmail.com | [Linkedin](linkedin.com/in/raihanfauzan)
+[Email](raihanfauzan5@gmail.com) | [Linkedin](linkedin.com/in/raihanfauzan)
 
 ## Education
 
@@ -9,45 +9,42 @@ raihanfauzan5@gmail.com | [Linkedin](linkedin.com/in/raihanfauzan)
 
 **Institut Teknologi Bandung**
 
-*Aug 2019 - Aug 2023*
+*August 2019 - October 2023*
 
 ## Working Experience
+
+### IT Implementor
+
+**BOSNET DISTRIBUTION INDONESIA**
+
+*March 2024 - Present*
+
+- Trained over 80 people (salesman, sales admins, sales supervisors, and operational managers) from 7 distributors of Frisian Flag Indonesia across Sumatra and West Java on the use of the new Distribution Management System (DMS 2.0)
+- Analyzed, solved, and reported, both technical and business issues during the implementation of DMS 2.0, ensuring smooth deployment and operation.
+- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) with sales data analytics, and building dashboards to monitor sales performance and productivity.
 
 ### Academic Associate - Content Creation
 
 **Sekolah.mu**
 
-*May 2021 - Nov 2021*
+*May 2021 - November 2021*
 
-- Designing curriculum for several e-learning program on content creation targeted at students.
-- Developing assessments based on the curriculum.
-- Creating video script, poster, and infographic for e-learning materials.
-- Coordinating with Learning Strategist and Content team to deliver e-learning product based on the curriculum.
-
-### IT Extracurricular Teacher
-
-**SMAN 4 Bandung**
-
-*Jun 2018 - Jun 2023*
-
-- Designing curriculum for teaching basic programming (using Python) and graphic design targeted
-toward high school students.
-- Teaching basic programming and graphic design weekly at SMAN 4 Bandung.
-- Assessing the performance of students every 6 months.
-- Redesigning the curriculum based on performance and feedback from students and teachers.
+- Conducted research to develop teaching materials on content creation.
+- Designed curriculum for 4 e-learning modules targeting high-school students.
+- Collaborated with the Content Division team to create materials (videos, infographics, etc.) for e-learning modules.
 
 ## Organization Experience
 
 ### Head of Creative Media Division at HIMATIKA ITB
 
-*Mar 2022 - Mar 2023*
+*March 2022 - March 2023*
 
-- Led a team of 5 to provide the needs of creative media for publication in HIMATIKA ITB
-- Created grand design for HIMATIKA ITB's publication on various social media
+- Developed comprehensive visual designs for HIMATIKA ITB’s social media publications.
+- Led a team of 5 to meet the creative media needs of other divisions within HIMATIKA ITB.
 
 ## Skills
-- Mathematics Modeling
-- Python Programming (OOP, Data Scraping)
-- Basic Knowledge of HTML & CSS
-- Graphic Design (vector & raster based)
-- Teaching
+- **Programming:** Python, R
+- **Office Related:** Word, Excel, PowerPoint, Google Workspaces
+- **Data Analysis:** Pivot Table and Charts *(Excel)*, Data Preparation *(Excel, pandas, SQL)*, Data Visualization *(Excel, matplotlib, seaborn)*, Web Scraping, Basic Machine Learning
+- **Graphic Design:** Vector Graphics *(Inkscape, Figma)*, Raster Graphics *(Photoshop*)
+- **Languages:** Bahasa Indonesia *(native)*, English *(proficient)*
