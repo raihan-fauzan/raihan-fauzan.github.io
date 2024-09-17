@@ -11,7 +11,7 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/Resume
 
 *August 2019 - October 2023*
 
-Relevant Courses:
+**Relevant Courses:**
 - Data Analysis
 - Mathematical Modeling
 - Mathematical Statistics
