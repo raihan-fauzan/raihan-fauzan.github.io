@@ -1,6 +1,8 @@
 # Hello, I'm Raihan Fauzan!
 Mathematics graduate with a strong interest in data, IT, and education. Skilled in data analysis, problem-solving, and organizing tasks. Looking for a Data Analytics or Data Science role to apply my math and technical skills to help make data-driven decisions
 
+You can download my resume in PDF [here!](https://raihan-fauzan.github.io/Resume%20-%20Raihan%20Fauzan%20-%20130924.pdf)
+
 ## Education
 
 ### Bachelor of Science - Mathematics
@@ -8,6 +10,11 @@ Mathematics graduate with a strong interest in data, IT, and education. Skilled 
 **Institut Teknologi Bandung**
 
 *August 2019 - October 2023*
+
+Relevant Courses:
+- Data Analysis
+- Mathematical Modeling
+- Mathematical Statistics
 
 ## Working Experience
 
