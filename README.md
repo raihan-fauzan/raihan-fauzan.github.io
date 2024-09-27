@@ -16,6 +16,8 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/docume
 - Mathematical Modeling
 - Mathematical Statistics
 
+**Final Project:** ***Modeling of Drafting Phase in DOTA 2 Video Game using Game Theory***
+
 ## Working Experience
 
 ### IT Implementor
@@ -24,9 +26,9 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/docume
 
 *March 2024 - Present*
 
-- Trained over 80 people (salesman, sales admins, sales supervisors, and operational managers) from 7 distributors of Frisian Flag Indonesia across Sumatra and West Java on the use of the new Distribution Management System (DMS 2.0)
-- Analyzed, solved, and reported, both technical and business issues during the implementation of DMS 2.0, ensuring smooth deployment and operation.
-- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) with sales data analytics, and building dashboards to monitor sales performance and productivity.
+- Trained over 80 people (salesman, sales admins, sales supervisors, and operational managers) from 7 distributors of Frisian Flag Indonesia across Sumatra and West Java on the use of the new Distribution Management System (DMS 2.0), enhancing sales performance.
+- Analyzed, solved, and reported, over 100 technical and business issues during the implementation of DMS 2.0, ensuring smooth deployment and operation.
+- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) building sales data dashboards to monitor sales performance and productivity, enhancing speed and providing automation.
 
 ### Academic Associate - Content Creation
 
