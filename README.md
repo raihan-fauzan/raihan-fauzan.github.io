@@ -1,7 +1,7 @@
 # Hi, I'm Raihan Fauzan!
 I'm an early-career IT professional with background in **system implementation**, **business analyst**, and **data analytics**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **IT Business Analyst**, **Data Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
 
-You can download my resume in PDF [here!](https://raihan-fauzan.github.io/document/Resume%20-%20Raihan%20Fauzan%20-%20170924.pdf)
+You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raihan-fauzan.github.io/blob/47df0c8ded8060cd872c46b6f317fd941c24e1d1/document/CV%20-%20Raihan%20Fauzan%20-%20140425.pdf)
 
 ## Work Experiences
 
@@ -17,8 +17,9 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/docume
 **Hands Solution Indonesia**
 
 *November 2024 - December 2024*
-- Learned SAP functionality and ABAP Programming.
-- Practiced SAP data extraction and feature development based on functional specification.
+- Learned and applied ABAP programming concepts, including internal tables, data dictionary objects, and modularization techniques.
+- Practice on data extraction and transformation using SQL queries within SAP systems.
+- Configured ALV grids to present dynamic reports based on user requirements and Smartforms for document creation.
 
 ### IT System Implementor 
 **Bosnet Distribution Indonesia**
@@ -31,8 +32,8 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/docume
 
 ## Projects
 
-### Sales Data Generator
-*On going*
+### [Sales Data Generator](https://github.com/raihan-fauzan/sales-data-generator)
+*On progress*
 
 Built a Python-based tool to generate realistic FMCG sales invoice dataset based on real-world business rules.
 - Designed a schema to mimic sales transactions including customers, products, regions, and time periods.
