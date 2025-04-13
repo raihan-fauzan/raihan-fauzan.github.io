@@ -1,12 +1,48 @@
-# Hello, I'm Raihan Fauzan!
-Mathematics graduate with a strong interest in data, IT, and education. Skilled in data analysis, problem-solving, and organizing tasks. Looking for a Data Analytics or Data Science role to apply my math and technical skills to help make data-driven decisions
+# Hi, I'm Raihan Fauzan!
+I'm an early-career IT professional with background in **system implementation**, **business analyst**, and **data analytics**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **IT Business Analyst**, **Data Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
 
-You can download my resume in PDF [here!](https://raihan-fauzan.github.io/document/Resume%20-%20Raihan%20Fauzan%20-%20170924.pdf)
+You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raihan-fauzan.github.io/blob/47df0c8ded8060cd872c46b6f317fd941c24e1d1/document/CV%20-%20Raihan%20Fauzan%20-%20140425.pdf)
+
+## Work Experiences
+
+### IT Business Analyst
+**Bosnet Distribution Indonesia**
+
+*January 2025 - March 2025*
+- Gathered user requirements from FMCG clients for Distribution Management System feature development.
+- Involved in 5 active projects, created functional specifications, and conducted User Acceptance Testing (UAT).
+- Collaborated with developer teams to resolve issues during development and implementation.
+  
+### SAP Technical Consultant Trainee
+**Hands Solution Indonesia**
+
+*November 2024 - December 2024*
+- Learned and applied ABAP programming concepts, including internal tables, data dictionary objects, and modularization techniques.
+- Practice on data extraction and transformation using SQL queries within SAP systems.
+- Configured ALV grids to present dynamic reports based on user requirements and Smartforms for document creation.
+
+### IT System Implementor 
+**Bosnet Distribution Indonesia**
+
+*March 2024 - October 2024*
+- Supported end-to-end implementation of Distribution Management System across 7 regional distributors.
+- Trained 70+ salesperson, sales admin, and other distribution roles on Distribution Management System usage.
+- Solved technical and business related issues during implementation and reported daily to the Head Office.
+- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) building sales data dashboards to monitor sales performance and productivity, enhancing speed and providing automation.
+
+## Projects
+
+### [Sales Data Generator](https://github.com/raihan-fauzan/sales-data-generator)
+*On progress*
+
+Built a Python-based tool to generate realistic FMCG sales invoice dataset based on real-world business rules.
+- Designed a schema to mimic sales transactions including customers, products, regions, and time periods.
+- Implemented features to simulate seasonal variabilities, regional product popularity, and customer segmentations.
+
 
 ## Education
 
 ### Bachelor of Science - Mathematics
-
 **Institut Teknologi Bandung**
 
 *August 2019 - October 2023*
@@ -18,43 +54,20 @@ You can download my resume in PDF [here!](https://raihan-fauzan.github.io/docume
 
 **Final Project:** ***Modeling of Drafting Phase in DOTA 2 Video Game using Game Theory***
 
-## Working Experience
-
-### IT Implementor
-
-**BOSNET DISTRIBUTION INDONESIA**
-
-*March 2024 - Present*
-
-- Trained over 80 people (salesman, sales admins, sales supervisors, and operational managers) from 7 distributors of Frisian Flag Indonesia across Sumatra and West Java on the use of the new Distribution Management System (DMS 2.0), enhancing sales performance.
-- Analyzed, solved, and reported, over 100 technical and business issues during the implementation of DMS 2.0, ensuring smooth deployment and operation.
-- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) building sales data dashboards to monitor sales performance and productivity, enhancing speed and providing automation.
-
-### Academic Associate - Content Creation
-
-**Sekolah.mu**
-
-*May 2021 - November 2021*
-
-- Conducted research to develop teaching materials on content creation.
-- Designed curriculum for 4 e-learning modules targeting high-school students.
-- Collaborated with the Content Division team to create materials (videos, infographics, etc.) for e-learning modules.
-
 ## Organization Experience
 
-### Head of Creative Media Division at HIMATIKA ITB
-
+### Head of Creative Media Division
+**HIMATIKA ITB**
 *March 2022 - March 2023*
 
 - Developed comprehensive visual designs for HIMATIKA ITB’s social media publications.
 - Led a team of 5 to meet the creative media needs of other divisions within HIMATIKA ITB.
 
 ## Skills
-- **Programming:** Python, R
-- **Office Related:** Word, Excel, PowerPoint, Google Workspaces
+- **System Development & Implementation:** User Requirements Gathering, Functional Specification Documentation, UAT, System Implementation & Support.
 - **Data Analysis:** Pivot Table and Charts *(Excel)*, Data Preparation *(Excel, pandas, SQL)*, Data Visualization *(Excel, matplotlib, seaborn)*, Web Scraping, Basic Machine Learning
 - **Graphic Design:** Vector Graphics *(Inkscape, Figma)*, Raster Graphics *(Photoshop*)
-- **Languages:** Bahasa Indonesia *(native)*, English *(proficient)*
+- **Languages:** Bahasa Indonesia *(native)*, English
 
 ## Contacts
 - **email:** raihanfauzan5@gmail.com
