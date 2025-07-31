@@ -1,7 +1,7 @@
 # Hi, I'm Raihan Fauzan!
 I'm an early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **Data Analyst**, **Business Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
 
-You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raihan-fauzan.github.io/blob/47df0c8ded8060cd872c46b6f317fd941c24e1d1/document/CV%20-%20Raihan%20Fauzan%20-%20140425.pdf)
+You can download my resume in PDF [here!](https://raw.githubusercontent.com/raihan-fauzan/raihan-fauzan.github.io/main/document/cv-raihanfauzan-data.pdf)
 
 ## Work Experiences
 
