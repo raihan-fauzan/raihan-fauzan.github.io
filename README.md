@@ -1,5 +1,5 @@
 # Hi, I'm Raihan Fauzan!
-I'm an early-career IT professional with background in **system implementation**, **business analyst**, and **data analytics**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **IT Business Analyst**, **Data Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
+I'm an early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **Data Analyst**, **Business Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
 
 You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raihan-fauzan.github.io/blob/47df0c8ded8060cd872c46b6f317fd941c24e1d1/document/CV%20-%20Raihan%20Fauzan%20-%20140425.pdf)
 
@@ -12,14 +12,6 @@ You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raiha
 - Gathered user requirements from FMCG clients for Distribution Management System feature development.
 - Involved in 5 active projects, created functional specifications, and conducted User Acceptance Testing (UAT).
 - Collaborated with developer teams to resolve issues during development and implementation.
-  
-### SAP Technical Consultant Trainee
-**Hands Solution Indonesia**
-
-*November 2024 - December 2024*
-- Learned and applied ABAP programming concepts, including internal tables, data dictionary objects, and modularization techniques.
-- Practice on data extraction and transformation using SQL queries within SAP systems.
-- Configured ALV grids to present dynamic reports based on user requirements and Smartforms for document creation.
 
 ### IT System Implementor 
 **Bosnet Distribution Indonesia**
@@ -32,13 +24,11 @@ You can download my resume in PDF [here!](https://github.com/raihan-fauzan/raiha
 
 ## Projects
 
-### [Sales Data Generator](https://github.com/raihan-fauzan/sales-data-generator)
+### [Regional Dairy Sales Performance Analysis](https://github.com/raihan-fauzan/dairy-sales-performance-analysis)
 *On progress*
-
-Built a Python-based tool to generate realistic FMCG sales invoice dataset based on real-world business rules.
-- Designed a schema to mimic sales transactions including customers, products, regions, and time periods.
-- Implemented features to simulate seasonal variabilities, regional product popularity, and customer segmentations.
-
+- Analyze key sales metrics (total sales, returns, transactions, unique customers, & more) from sales data to identify overall performance trends and fluctuation from November 2024 to February 2025.
+- Evaluate the performance of Salesman, Product, and Customer segments to identify key points of sales success and also area of improvements.
+- Provide actionable recommendations based on the findings and analysis to support Area Business Manager in optimizing strategies and improving overall sales performance.
 
 ## Education
 
@@ -64,8 +54,8 @@ Built a Python-based tool to generate realistic FMCG sales invoice dataset based
 - Led a team of 5 to meet the creative media needs of other divisions within HIMATIKA ITB.
 
 ## Skills
-- **System Development & Implementation:** User Requirements Gathering, Functional Specification Documentation, UAT, System Implementation & Support.
 - **Data Analysis:** Pivot Table and Charts *(Excel)*, Data Preparation *(Excel, pandas, SQL)*, Data Visualization *(Excel, matplotlib, seaborn)*, Web Scraping, Basic Machine Learning
+- **System Development & Implementation:** User Requirements Gathering, Functional Specification Documentation, UAT, System Implementation & Support.
 - **Graphic Design:** Vector Graphics *(Inkscape, Figma)*, Raster Graphics *(Photoshop*)
 - **Languages:** Bahasa Indonesia *(native)*, English
 
