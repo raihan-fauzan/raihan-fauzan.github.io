@@ -1,5 +1,5 @@
 # Hi, I'm Raihan Fauzan!
-I'm an early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**, especially in **FMCG and distributions** field. I also have some experience developing **SAP** features using **ABAP**. Looking for an opportunity in **Data Analyst**, **Business Analyst**, or **Management Trainee** roles in **FMCG**, **tech**, or **finance**. Open to remote work or Jakarta-based positions.
+Early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**, especially in the **FMCG field**. Proficient in **SQL**, **Excel**, and **Python** for data processing, analysis, and visualization. Seeking opportunities as a **Data Analyst**, **Business Analyst**, **Management Trainee**, or similar roles in FMCG, tech, or finance industries. Open to remote work or Jakarta-based positions.
 
 You can download my resume in PDF [here!](https://raw.githubusercontent.com/raihan-fauzan/raihan-fauzan.github.io/main/document/cv-raihanfauzan-data.pdf)
 
@@ -9,18 +9,19 @@ You can download my resume in PDF [here!](https://raw.githubusercontent.com/raih
 **Bosnet Distribution Indonesia**
 
 *January 2025 - March 2025*
-- Gathered user requirements from FMCG clients for Distribution Management System feature development.
-- Involved in 5 active projects, created functional specifications, and conducted User Acceptance Testing (UAT).
-- Collaborated with developer teams to resolve issues during development and implementation.
+- Involved in 5 active projects with various FMCG clients, including AI implementation projects in the FMCG field.
+- Analyzed business requirements and translated them into comprehensive functional specifications for development.
+- Conducted Internal Testing and User Acceptance Testing (UAT) with developer team and user, ensuring the system qualities by using data analysis techniques.
+- Coordinated with user, stakeholder, and head of Solution Delivery about the project development and progress.
 
 ### IT System Implementor 
 **Bosnet Distribution Indonesia**
 
 *March 2024 - October 2024*
-- Supported end-to-end implementation of Distribution Management System across 7 regional distributors.
-- Trained 70+ salesperson, sales admin, and other distribution roles on Distribution Management System usage.
-- Solved technical and business related issues during implementation and reported daily to the Head Office.
-- Assisted the Associate Business Manager (ABM) and Associate Account Manager (AAM) building sales data dashboards to monitor sales performance and productivity, enhancing speed and providing automation.
+- Collaborated with Associate Business Managers to develop a sales performance dashboard, enhancing the monitoring of salesman and customer sales performance and providing actionable insights.
+- Facilitated the implementation of a new Distribution Management System (DMS) across 7 distributors in Sumatra and Java, ensuring seamless transition and system integration.
+- Conducted an end-to-end training for 70 sales related persons (salesman, sales admin, area manager) on DMS usage.
+- Identified and resolved technical and business issues by analyzing data, testing system features, documenting issues, and collaborating with the Head Office.
 
 ## Projects
 
