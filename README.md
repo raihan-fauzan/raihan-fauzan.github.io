@@ -1,9 +1,14 @@
 # Hi, I'm Raihan Fauzan!
-Early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**, especially in the **FMCG field**. Proficient in **SQL**, **Excel**, and **Python** for data processing, analysis, and visualization. Seeking opportunities as a **Data Analyst**, **Business Analyst**, **Management Trainee**, or similar roles in FMCG, tech, or finance industries. Open to remote work or Jakarta-based positions.
+Early-career IT professional with background in **data analysis**, **system implementation**, and **business analysis**. Currently working as **Workforce Management Data Analyst** at Monee. Proficient in **SQL**, **Excel**, and **Python** for data processing, analysis, and visualization. 
 
 You can download my resume in PDF [here!](https://raw.githubusercontent.com/raihan-fauzan/raihan-fauzan.github.io/main/document/cv-raihanfauzan-data.pdf)
 
 ## Work Experiences
+
+### Workforce Management Data Analyst
+**Monee (Sea Group)**
+
+*October 2025 - Present*
 
 ### IT Business Analyst
 **Bosnet Distribution Indonesia**
